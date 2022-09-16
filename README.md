@@ -1,6 +1,8 @@
 # dataops_mba
 repositório de aulas de mba dataops
 
-repositorio para uso na aula de dataops
+## Aula 03 ##   
 
-hello word
+... Exercicio de criação do arquivo inicial de Dataops...   
+  
+##### teste escrita readme ####  
